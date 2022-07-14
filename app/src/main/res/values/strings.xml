@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nilaiku</string>
+    <string-array name="matkul">
+        <item>Pilih Mata Kuliah</item>
+        <item>Mobile Computing</item>
+        <item>Desain</item>
+        <item>Sistem Informasi Berbasis Web</item>
+        <item>Manajemen Proyek</item>
+        <item>Komputer dan masyarakat</item>
+    </string-array>
+</resources>
